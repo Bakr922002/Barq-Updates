@@ -1,5 +1,5 @@
 {
-  "version": "1.1.16",
+  "version": "1.0.0",
   "url": "https://github.com/Bakr922002/Barq-Updates/releases/latest/download/Barq-Setup.exe",
-  "notes": "Fixed license dates on computers set to the Hijri calendar. License changes (activate, cancel, restore) now take effect while Barq is open, with no restart."
+  "notes": "First release of Barq. Trial licenses per computer, cleaner section and footing tables, ramp, tank and wall-load windows, and pier labels, drop panels and tank slabs built correctly in ETABS."
 }
