@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/Bakr922002/Barq-Updates/releases/latest/download/Barq-Setup.exe",
-  "notes": "First release of Barq. Trial licenses per computer, cleaner section and footing tables, ramp, tank and wall-load windows, and pier labels, drop panels and tank slabs built correctly in ETABS."
+  "notes": "DXF Project Builder: storeys with plan previews, column sections with rebar, lateral water and soil pressure, wall loads on beams, model check with Show buttons, and faster building."
 }
