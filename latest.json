@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/Bakr922002/Barq-Updates/releases/latest/download/Barq-Setup.exe",
-  "notes": "DXF Project Builder: storeys with plan previews, column sections with rebar, lateral water and soil pressure, wall loads on beams, model check with Show buttons, and faster building."
+  "notes": "Stairs: each flight its own width with Free, corner handles that snap to beams and walls, flights and landings level with the beams, an ETABS opening over each stair, and stair edges laid on the beams' lines. A beam section the model lacks is defined from its name."
 }
