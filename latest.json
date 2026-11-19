@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "url": "https://github.com/Bakr922002/Barq-Updates/releases/latest/download/Barq-Setup.exe",
-  "notes": "Stairs: each flight its own width with Free, corner handles that snap to beams and walls, flights and landings level with the beams, an ETABS opening over each stair, and stair edges laid on the beams' lines. A beam section the model lacks is defined from its name."
+  "notes": "DXF Project Builder: a Diaphragms part, concrete, rebar and cover for every slab with sub-slabs apart, loads read straight off the drawing layers (line, area and point), a two-column Visibility list, cut slabs and wall openings marked on the plan, arrows on stairs and turning ramps, and wall openings and sub-slabs cut at Build. Many fixes in the tables and the plan windows."
 }
